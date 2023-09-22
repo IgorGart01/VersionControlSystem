@@ -1,0 +1,121 @@
+[1;31m
+Start test 1[0m
+
+The username is Max.
+[1;31m
+Start test 2[0m
+
+ The file 'abc.txt' is tracked.
+[1;31m
+Start test 3[0m
+These are SVCS commands:
+#config     Get and set a username.
+$add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+These are SVCS commands:
+#config     Get and set a username.
+$add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+[1;31m
+Start test 4[0m
+
+Please, tell me who you are.
+
+The username is Max.
+
+The username is Max.
+
+The username is John.
+
+The username is John.
+[1;31m
+Start test 5[0m
+
+Add a file to the index.
+
+$The file 'file758.txt' is tracked.
+
+Tracked files:
+file758.txt
+
+$The file 'file688.txt' is tracked.
+
+Tracked files:
+file758.txt
+file688.txt
+
+Can't find 'file983.txt'.
+[1;31m
+Start test 6[0m
+
+The username is Diane894.
+
+'The file 'first_file.txt' is tracked.
+
+(The file 'second_file.txt' is tracked.
+
+Changes are committed.
+[1;31m
+Start test 7[0m
+
+The username is Diane370.
+
+'The file 'first_file.txt' is tracked.
+
+(The file 'second_file.txt' is tracked.
+
+No commits yet.
+
+Message was not passed.
+
+Changes are committed.
+
+commit 1704297113
+Author: Diane370
+Test message
+
+
+Nothing to commit.
+
+Changes are committed.
+
+commit 1293603002
+Author: Diane370
+Test message3
+commit 1704297113
+Author: Diane370
+Test message
+
+[1;31m
+Start test 8[0m
+
+The username is Marie457.
+
+'The file 'first_file.txt' is tracked.
+
+(The file 'second_file.txt' is tracked.
+
+Changes are committed.
+
+Changes are committed.
+
+Commit id was not passed.
+
+Commit does not exist.
+
+commit 1933464131
+Author: Marie457
+Second commit
+commit -303977273
+Author: Marie457
+First commit
+
+
+ Switched to commit -303977273.
+[1;31m
+Start test 9[0m
+&'wrongArg707' is not a SVCS command.
